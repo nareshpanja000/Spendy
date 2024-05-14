@@ -1,0 +1,12 @@
+{
+    "name": "nares/spendy",
+    "description": "A PHP Application To Track Expences",
+    "type": "project",
+    "require": {},
+    "autoload":{
+        "psr-4":{
+            "Framework\\":"src/Framework",
+            "App\\":"src/App"
+        }
+    }
+}
