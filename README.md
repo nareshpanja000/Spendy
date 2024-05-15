@@ -1,2 +1,2 @@
 # Spendy
- A PHP application For tracking expences 
+ A PHP application For tracking expenses 
